@@ -1,0 +1,506 @@
+[
+    {
+        "start_datetime": "2025-06-12T07:15",
+        "end_datetime": "2025-06-12T09:45",
+        "location": "DECTRIS Ltd., Täfernweg 1, 5405 Baden-Dättwil",
+        "event_name": "Journey by Bus",
+        "event_description": "<p>Contact Person: Andy Moesch (+41 79 430 80 20)</p><br>Please be on time, the bus will leave on time at 07:30.",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T10:00",
+        "end_datetime": "2025-06-12T10:25",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Welcome to Davos 2025",
+        "event_description": "The Davos organising team welcomes you to the DECTRIS Retreat 2025 in Davos and hands over to Anna-Karin, who will be our moderator for the event. She will interview our CEO Matthias.",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T10:30",
+        "end_datetime": "2025-06-12T12:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "People at DECTRIS",
+        "event_description": "Introduction of new employees and presentation of long-term employees.",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T12:00",
+        "end_datetime": "2025-06-12T13:05",
+        "location": "Restaurant, Hotel Schweizerhof",
+        "event_name": "Lunch",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T13:15",
+        "end_datetime": "2025-06-12T13:25",
+        "location": "Courtyard, Hotel Schweizerhof",
+        "event_name": "Fotoshooting",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T13:30",
+        "end_datetime": "2025-06-12T17:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Workshop | Crafting our Future",
+        "event_description": "Let's craft the future of DECTRIS together! In this workshop, we will work in small groups to discuss and develop ideas for the future of DECTRIS. The results will be presented in the second session.",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T13:30",
+        "end_datetime": "2025-06-12T15:30",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Workshop | Crafting our Future (Literally)",
+        "event_description": "<p><b>Requires: Laptop</b></p><br>We will work in teams to craft the future DECTRIS products.",
+        "type": "detail",
+        "parent_event": "Workshop | Crafting our Future"
+    },
+    {
+        "start_datetime": "2025-06-12T15:30",
+        "end_datetime": "2025-06-12T16:00",
+        "location": "",
+        "event_name": "Break",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Workshop | Crafting our Future"
+    },
+    {
+        "start_datetime": "2025-06-12T16:00",
+        "end_datetime": "2025-06-12T17:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Workshop Presentation | Group I",
+        "event_description": "Each team will present the results of their crafting session.<br>Teams in Group I:<br> <ul><li>Photon Pioneers</li><li>Atomic Architects</li><li>Byte Builders</li><li>Laser Engineers</li><li>Nano Crafters</li><li>AI Alchemists</li><li>Singularity Seekers</li><li>Circuit Breakers</li><li>Higgs Hunters</li><li>Fusion Innovators</li></ul>",
+        "type": "detail",
+        "parent_event": "Workshop | Crafting our Future"
+    },
+    {
+        "start_datetime": "2025-06-12T16:00",
+        "end_datetime": "2025-06-12T17:00",
+        "location": "Room II, Hotel Schweizerhof",
+        "event_name": "Workshop Presentation | Group II",
+        "event_description": "Each team will present the results of their crafting session.<br>Teams in Group II:<br> <ul><li>Code Catalysts</li><li>Data Nomads</li><li>Free Electrons</li><li>Ionizing Radiators</li><li>Valance Voyagers</li><li>Silicon Dicers</li><li>Bump Bonders</li><li>Super Capacitors</li><li>Charge Carriers</li></ul>",
+        "type": "detail",
+        "parent_event": "Workshop | Crafting our Future"
+    },
+    {
+        "start_datetime": "2025-06-12T17:00",
+        "end_datetime": "2025-06-12T17:45",
+        "location": "Hotel Schweizerhof | Hotel Schweizerhof",
+        "event_name": "Check-In",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T17:45",
+        "end_datetime": "2025-06-13T02:00",
+        "location": "",
+        "event_name": "Thursday Evening Program",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-12T17:45",
+        "end_datetime": "2025-06-12T18:00",
+        "location": "Enterance, Hotel Schweizerhof",
+        "event_name": "Meeting Point",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T18:00",
+        "end_datetime": "2025-06-12T18:15",
+        "location": "Jakobshornbahn Talstation",
+        "event_name": "Gondola Ride to Restaurant Jschalp",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T18:15",
+        "end_datetime": "2025-06-12T19:00",
+        "location": "Berghaus Jschalp",
+        "event_name": "Apéro",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T19:00",
+        "end_datetime": "2025-06-12T23:00",
+        "location": "Berghaus Jschalp",
+        "event_name": "Dinner",
+        "event_description": "Return gondola rides will be available at 21:30 and 23:00.",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T21:30",
+        "end_datetime": "2025-06-12T21:45",
+        "location": "Middle Station, Jakobshornbahn",
+        "event_name": "First Return Gondola Ride",
+        "event_description": "There is a later gondola ride at 23:00.",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T23:00",
+        "end_datetime": "2025-06-12T23:15",
+        "location": "Middle Station, Jakobshornbahn",
+        "event_name": "Second Return Gondola Ride",
+        "event_description": "Last gondola back down.",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-12T23:30",
+        "end_datetime": "2025-06-12T02:00",
+        "location": "Ex Bar | Promenade 63, 7270 Davos",
+        "event_name": "Unofficial After Party",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Thursday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-13T07:30",
+        "end_datetime": "2025-06-13T08:25",
+        "location": "Hotel Schweizerhof | Hotel Schweizerhof",
+        "event_name": "Zmorge | Breakfast",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T08:30",
+        "end_datetime": "2025-06-13T08:45",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Welcome to the Second Day",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T08:45",
+        "end_datetime": "2025-06-13T12:00",
+        "location": "Hotel Schweizerhof",
+        "event_name": "Employee Presentations",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T08:45",
+        "end_datetime": "2025-06-13T09:05",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "How is it Made? Batteries & CT",
+        "event_description": "<p>Speakers: CarA, SpyG<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T08:45",
+        "end_datetime": "2025-06-13T09:05",
+        "location": "Room II, Hotel Schweizerhof",
+        "event_name": "From Unconscious Reaction to Conscious Response",
+        "event_description": "<p>Speakers: RolB, <br>Language: DEU</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T08:45",
+        "end_datetime": "2025-06-13T09:05",
+        "location": "Room III, Hotel Schweizerhof",
+        "event_name": "BigPicture (Portfolio & Project Planner) | What's in it for me and my team?",
+        "event_description": "<p>Speakers: BuSy<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:10",
+        "end_datetime": "2025-06-13T09:40",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "We Cannot Predict the Future, but We Can Craft It",
+        "event_description": "<p>Speakers: ValR, TomH, PieZ<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:10",
+        "end_datetime": "2025-06-13T09:40",
+        "location": "Room II, Hotel Schweizerhof",
+        "event_name": "Finance @ DECTRIS | Account for the Past & Focusing on the Future",
+        "event_description": "<p>Speakers: MarK<br>Language: DEU</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:10",
+        "end_datetime": "2025-06-13T09:40",
+        "location": "Room III, Hotel Schweizerhof",
+        "event_name": "Subsidiary's Report 2025 | DECTRIS USA and Japan",
+        "event_description": "<p>Speakers: TakT, ZacB<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:45",
+        "end_datetime": "2025-06-13T10:05",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Great Detectors, Nice Interfaces... What Else?",
+        "event_description": "<p>Speakers: DaSt<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:45",
+        "end_datetime": "2025-06-13T10:05",
+        "location": "Room II, Hotel Schweizerhof",
+        "event_name": "Chasing the Holy Grail",
+        "event_description": "<p>Speakers: ThoT<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T09:45",
+        "end_datetime": "2025-06-13T10:05",
+        "location": "Room III, Hotel Schweizerhof",
+        "event_name": "Interconnects",
+        "event_description": "<p>Speakers: AdrC<br>Language: ENG</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T10:05",
+        "end_datetime": "2025-06-13T10:30",
+        "location": "",
+        "event_name": "Break",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T10:30",
+        "end_datetime": "2025-06-13T11:25",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Make Ideas Come to Life: The Power of Speaking and Storytelling",
+        "event_description": "<p>Speakers: DanM<br>Language: ENG<br><b>Requires: Laptop or Pen and Paper</b></p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T10:30",
+        "end_datetime": "2025-06-13T11:25",
+        "location": "Room II, Hotel Schweizerhof",
+        "event_name": "Design an Integrated Circuit | Insight Into an ASIC Designer's Work",
+        "event_description": "<p>Speakers: DEV-ASD<br>Language: ENG<br><b>Requires: Laptop and Mouse</b></p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T11:30",
+        "end_datetime": "2025-06-13T12:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Support: Crafting the Feature",
+        "event_description": "<p>Speakers: SUP<br>Language: ENG, DE</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T11:30",
+        "end_datetime": "2025-06-13T12:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "How Technology and Geopolitics Intersect | From Microchips to Multilateralism - The Complex Reality of Global Trade",
+        "event_description": "<p>Speakers: SUP<br>Language: ENG, DE</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T10:30",
+        "end_datetime": "2025-06-13T12:00",
+        "location": "Courtyard, Hotel Schweizerhof",
+        "event_name": "Alternative Activities",
+        "event_description": "<p>Speakers: TobB<br>Language: DE</p>",
+        "type": "detail",
+        "parent_event": "Employee Presentations"
+    },
+    {
+        "start_datetime": "2025-06-13T12:00",
+        "end_datetime": "2025-06-13T13:10",
+        "location": "Hotel Schweizerhof",
+        "event_name": "Lunch",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T13:15",
+        "end_datetime": "2025-06-13T14:15",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Pioneers Then. Pioneers Now.",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T14:15",
+        "end_datetime": "2025-06-13T14:45",
+        "location": "",
+        "event_name": "Break",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T14:45",
+        "end_datetime": "2025-06-13T15:45",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Key Note",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T15:50",
+        "end_datetime": "2025-06-13T16:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Appreciations",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T16:00",
+        "end_datetime": "2025-06-13T17:00",
+        "location": "Room I, Hotel Schweizerhof",
+        "event_name": "Market View",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T17:30",
+        "end_datetime": "2025-06-13T18:00",
+        "location": "",
+        "event_name": "Welcome Partners | Get Ready",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T18:00",
+        "end_datetime": "2025-06-14T02:00",
+        "location": "",
+        "event_name": "Friday Evening Program",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-13T18:00",
+        "end_datetime": "2025-06-13T19:00",
+        "location": "Pöstlihotel",
+        "event_name": "Apéro",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Friday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-13T19:00",
+        "end_datetime": "2025-06-13T21:00",
+        "location": "Pöstlihotel",
+        "event_name": "Dinner",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "Friday Evening Program"
+    },
+    {
+        "start_datetime": "2025-06-13T21:00",
+        "end_datetime": "2025-06-14T02:00",
+        "location": "Pöstlihotel",
+        "event_name": "Karaoke Party",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-14T07:30",
+        "end_datetime": "2025-06-14T09:30",
+        "location": "",
+        "event_name": "Zmorge | Breakfast",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-14T10:00",
+        "end_datetime": "2025-06-14T18:00",
+        "location": "",
+        "event_name": "DECTRIS X",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "",
+        "end_datetime": "",
+        "location": "",
+        "event_name": "Hiking",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "DECTRIS X"
+    },
+    {
+        "start_datetime": "",
+        "end_datetime": "",
+        "location": "",
+        "event_name": "Bicycle Tour",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "DECTRIS X"
+    },
+    {
+        "start_datetime": "",
+        "end_datetime": "",
+        "location": "",
+        "event_name": "Summer Tobogganing",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "DECTRIS X"
+    },
+    {
+        "start_datetime": "",
+        "end_datetime": "",
+        "location": "Hotel Schweizerhof",
+        "event_name": "Board and Video Games",
+        "event_description": "",
+        "type": "detail",
+        "parent_event": "DECTRIS X"
+    },
+    {
+        "start_datetime": "2025-06-14T18:00",
+        "end_datetime": "2025-06-14T22:00",
+        "location": "Steakhouse Ochsen",
+        "event_name": "Dinner",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    },
+    {
+        "start_datetime": "2025-06-15T07:30",
+        "end_datetime": "2025-06-15T09:30",
+        "location": "Hotel Schweizerhof | Pöstlihotel",
+        "event_name": "Zmorge | Breakfast",
+        "event_description": "",
+        "type": "overview",
+        "parent_event": ""
+    }
+]
