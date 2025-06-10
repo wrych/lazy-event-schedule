@@ -202,7 +202,7 @@
         "end_datetime": "2025-06-13T09:05",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "How is it Made? Batteries & CT",
-        "event_description": "<p>Speakers: CarA, SpyG<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: CarA, SpyG<br>Language: ENG</p><p>Join us in the battery journey.</p><p>You will learn how batteries are made, what problems can occur and what fast micro CT and photon counting detectors can do about it.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -211,7 +211,7 @@
         "end_datetime": "2025-06-13T09:05",
         "location": "Room II, Hotel Schweizerhof",
         "event_name": "From Unconscious Reaction to Conscious Response",
-        "event_description": "<p>Speakers: RolB, <br>Language: DEU</p>",
+        "event_description": "<p>Speakers: RolB, <br>Language: DEU</p><p>Wir alle erleben täglich Momente, in denen wir automatisch reagieren, sei es in Meetings, beim Schreiben von E-Mails oder im direkten Austausch mit Kollegen.</p>Der Ausdruck \"From unconscious reaction to conscious response\", geprägt von Gregg Kendrick und inspiriert von der Gewaltfreien Kommunikation nach Marshall Rosenberg, beschreibt einen entscheidenden Entwicklungsschritt: Wir lernen, innezuhalten, die Situation bewusst wahrzunehmen und dann mit Klarheit und Absicht zu handeln.<br><p>Dieser Impulsvortrag lädt ein zu einer kurzen, aber tiefgehenden Reflexion über Selbst- und Sozialkompetenz im Arbeitsalltag, speziell in einem selbstorganisierten Unternehmen wie DECTRIS. Er zeigt auf, wie wir den Raum zwischen Reiz und Reaktion vergrößern können, und was dieser Raum uns ermöglicht: Echtes Zuhören, konstruktives Feedback, kluge Entscheidungen und wertschätzende Zusammenarbeit.</p><p>Das vermittelte Konzept bildet einen Rahmen für die Schulungsangebote von PATund TRUST.</p><b>Ziel des Vortrags:</b><br><p>In 20 Minuten einen Funken zu setzen, für mehr bewusste Kommunikation, bessere Zusammenarbeit und mehr Freude im Arbeitsalltag.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -220,7 +220,7 @@
         "end_datetime": "2025-06-13T09:05",
         "location": "Room III, Hotel Schweizerhof",
         "event_name": "BigPicture (Portfolio & Project Planner) | What's in it for me and my team?",
-        "event_description": "<p>Speakers: BuSy<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: BuSy<br>Language: ENG</p><p><ul><li>What did the the implementation of BigPicture based on Jira achieve, how can you and your team profit from this.</li><li>What is possible already now, and what will be possible in the future?</li></ul></p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -229,7 +229,7 @@
         "end_datetime": "2025-06-13T09:40",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "We Cannot Predict the Future, but We Can Craft It",
-        "event_description": "<p>Speakers: ValR, TomH, PieZ<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: ValR, TomH, PieZ<br>Language: ENG</p><p>Over the past 20 years, our development of photon and electron detectors has focused on constant improvements in three key areas: ASICs, sensors, and methods and simulations.</p><p>DECTRIS’s innovations aim to set new standards in detector technology, meeting the increasing demands of scientific research while also expanding the use of our detectors into new fields and applications.</p><p>Starting from the first PILATUS2 ASICs, we have advanced to today’s fast frame rates, high-rate capabilities, low-noise electronics, large area, ensure consistent, scalable manufacturing. At the same time, sensor technology has improved, offering higher quantum efficiency across an energy range from hundreds eV to 100 keV, better spatial resolution, and stability.&nbsp;</p><p>Today, we’re continuing our work on detectors exploring advanced sensors and readout technologies to tackle the challenges of tomorrow’s photon and electron detection.&nbsp;</p><p>This presentation will provide our perspective on the evolution of detector technology, from its origins to current innovations, and discuss potential future directions.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -238,7 +238,7 @@
         "end_datetime": "2025-06-13T09:40",
         "location": "Room II, Hotel Schweizerhof",
         "event_name": "Finance @ DECTRIS | Account for the Past & Focusing on the Future",
-        "event_description": "<p>Speakers: MarK<br>Language: DEU</p>",
+        "event_description": "<p>Speakers: MarK<br>Language: DEU</p><p>Providing an update why the front window of a car is bigger than the rear mirror.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -247,7 +247,7 @@
         "end_datetime": "2025-06-13T09:40",
         "location": "Room III, Hotel Schweizerhof",
         "event_name": "Subsidiary's Report 2025 | DECTRIS USA and Japan",
-        "event_description": "<p>Speakers: TakT, ZacB<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: TakT, ZacB<br>Language: ENG</p><p>Update from DECTRIS USA and Japan on the current status of the subsidiaries, their challenges, and successes.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -256,7 +256,7 @@
         "end_datetime": "2025-06-13T10:05",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "Great Detectors, Nice Interfaces... What Else?",
-        "event_description": "<p>Speakers: DaSt<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: DaSt<br>Language: ENG</p><p>The first wave of scientists-customers asks us for outstanding technology, and wishes to have usable interfaces according to the user’s skills. The second wave trusts the former, but asks: “Can you help me getting results as impressive as my neighbor?”.</p><p>This presentation aims at initiating a discussion on the role of DECTRIS in applications support and “customer success management”, with focus on to effectively expand to the “second wave” customers and beyond. It includes possible business models and alignment to DECTRIS vision and resources.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -265,7 +265,7 @@
         "end_datetime": "2025-06-13T10:05",
         "location": "Room II, Hotel Schweizerhof",
         "event_name": "Chasing the Holy Grail",
-        "event_description": "<p>Speakers: ThoT<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: ThoT<br>Language: ENG</p><p>\"Chasing the Holy Grail\" metaphorically refers to the pursuit of something highly desired and difficult to achieve, often a goal or objective that is considered extremely important or valuable but also very elusive” (AI)</p><p>Making photon-counting market ready for Medical Computed Tomography is exactly that.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -274,7 +274,7 @@
         "end_datetime": "2025-06-13T10:05",
         "location": "Room III, Hotel Schweizerhof",
         "event_name": "Interconnects",
-        "event_description": "<p>Speakers: AdrC<br>Language: ENG</p>",
+        "event_description": "<p>Speakers: AdrC<br>Language: ENG</p><p>A presentation on interconnect technology at DECTRIS</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -292,7 +292,7 @@
         "end_datetime": "2025-06-13T11:25",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "Make Ideas Come to Life: The Power of Speaking and Storytelling",
-        "event_description": "<p>Speakers: DanM<br>Language: ENG<br><b>Requires: Laptop or Pen and Paper</b></p>",
+        "event_description": "<p>Speakers: DanM<br>Language: ENG<br><b>Requires: Laptop or Pen and Paper</b></p><p>In this workshop, we’ll practice creating and delivering impactful stories that make ideas come to life and get them heard.</p><p>In a world of AI-generated texts, emails, and reports, the one thing that can’t be replaced is our in-person communication. Public speaking is one of the most important and useful skills to craft our future, boost our careers, and enhance our personal lives.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -301,7 +301,7 @@
         "end_datetime": "2025-06-13T11:25",
         "location": "Room II, Hotel Schweizerhof",
         "event_name": "Design an Integrated Circuit | Insight Into an ASIC Designer's Work",
-        "event_description": "<p>Speakers: DEV-ASD<br>Language: ENG<br><b>Requires: Laptop and Mouse</b></p>",
+        "event_description": "<p>Speakers: DEV-ASD<br>Language: ENG<br><b>Requires: Laptop and Mouse</b></p><p>Hands-on workshop where you designing a simple integrated circuit. Includes schematic. simulation and layout. it is required to bring a laptop. This workshop includes theory and practice.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -310,7 +310,7 @@
         "end_datetime": "2025-06-13T12:00",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "Support: Crafting the Feature",
-        "event_description": "<p>Speakers: SUP<br>Language: ENG, DE</p>",
+        "event_description": "<p>Speakers: SUP<br>Language: ENG, DE</p><p>SUPrise</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -319,7 +319,7 @@
         "end_datetime": "2025-06-13T12:00",
         "location": "Room I, Hotel Schweizerhof",
         "event_name": "How Technology and Geopolitics Intersect | From Microchips to Multilateralism - The Complex Reality of Global Trade",
-        "event_description": "<p>Speakers: SUP<br>Language: ENG, DE</p>",
+        "event_description": "<p>Speakers: BarW<br>Language: ENG</p><p>High-level presentation that shows:<ul><li>how critical technologies have become central to geopolitical strategy and economic influence</li><li>how international treaties, export control regimes, and global cooperation frameworks shape access to technology and increasingly define the structure of global trade</li></ul></p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },

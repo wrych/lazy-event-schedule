@@ -42,15 +42,14 @@ body {
 }
 
 /* --- Header --- */
-.header {
-  color: var(--white);
-  padding: calc(var(--spacing-unit) * 1.5) 0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  aspect-ratio: 5/1;
-}
-
 .header .container {
   height: 100%;
+  padding: calc(var(--spacing-unit) * 1.5) 0;
+  background: url('@/assets/davos_header.webp') no-repeat center center;
+  background-size: cover;
+  aspect-ratio: 5/1;
+  color: var(--white);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: flex;
   justify-content: space-between;
   align-items: end;
@@ -319,13 +318,13 @@ a:hover {
     padding: 0 var(--spacing-unit);
   }
 
-  .header {
-    padding-bottom: 0;
-  }
+  .header {}
 
   .header .container {
     height: 100%;
+    width: 100%;
     align-items: end;
+    padding-bottom: 0;
   }
 
   .logo {

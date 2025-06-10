@@ -43,12 +43,20 @@ const overviewLink = computed(() => preserveDebugQuery(route, { name: 'overview'
   <header class="header">
     <div class="container header-container">
       <nav class="main-nav">
-        <RouterLink :to="homeLink" class="nav-link" :class="{ active: isLinkActive('/') }">Home
+        <RouterLink :to="homeLink" class="nav-link" :class="{ active: isLinkActive('/') }"
+          >Home
         </RouterLink>
-        <RouterLink :to="upcomingLink" class="nav-link" :class="{ active: isLinkActive('/upcoming') }">Upcoming
-          Events
+        <RouterLink
+          :to="upcomingLink"
+          class="nav-link"
+          :class="{ active: isLinkActive('/upcoming') }"
+          >Upcoming Events
         </RouterLink>
-        <RouterLink :to="overviewLink" class="nav-link" :class="{ active: isLinkActive('/overview') }">Overview
+        <RouterLink
+          :to="overviewLink"
+          class="nav-link"
+          :class="{ active: isLinkActive('/overview') }"
+          >Overview
         </RouterLink>
         <a href="https://photo.wry.ch/event/1" class="nav-link">Photos</a>
       </nav>
@@ -82,10 +90,5 @@ const overviewLink = computed(() => preserveDebugQuery(route, { name: 'overview'
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-}
-
-.header {
-  background: url('@/assets/davos_header.webp') no-repeat center center;
-  background-size: cover;
 }
 </style>
