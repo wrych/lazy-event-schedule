@@ -454,7 +454,7 @@
         "end_datetime": "",
         "location": "",
         "event_name": "Hiking",
-        "event_description": "",
+        "event_description": "<p>Contact: Stefan Brandstetter</p>",
         "type": "detail",
         "parent_event": "DECTRIS X"
     },
@@ -463,7 +463,7 @@
         "end_datetime": "",
         "location": "",
         "event_name": "Bicycle Tour",
-        "event_description": "",
+        "event_description": "<p>Contact: Philipp Baumann and Andreas Kirchberg</p>",
         "type": "detail",
         "parent_event": "DECTRIS X"
     },
@@ -472,7 +472,7 @@
         "end_datetime": "",
         "location": "",
         "event_name": "Summer Tobogganing",
-        "event_description": "",
+        "event_description": "<p>Contact: Marco Schori</p>",
         "type": "detail",
         "parent_event": "DECTRIS X"
     },
@@ -481,7 +481,7 @@
         "end_datetime": "",
         "location": "Hotel Schweizerhof",
         "event_name": "Board and Video Games",
-        "event_description": "",
+        "event_description": "<p>Contact: Simon Zimmer</p>",
         "type": "detail",
         "parent_event": "DECTRIS X"
     },
