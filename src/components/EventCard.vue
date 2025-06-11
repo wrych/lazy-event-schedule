@@ -37,7 +37,7 @@ const descriptionSnippet = computed(() => {
     props.event.event_description.length > maxLength
       ? props.event.event_description.substring(0, maxLength) + '...'
       : props.event.event_description
-  snippet = snippet.replace(/<br>/g, ' | ') // Replace non-breaking spaces
+  snippet = snippet.replace(/<br>|<\/p>|<\/ul>|<\/div>/g, ' | ') // Replace non-breaking spaces
   return snippet.replace(/<[^>]+>/g, '') // Remove HTML tags
 })
 
@@ -54,18 +54,8 @@ const eventDetailLink = computed(() => {
       <div class="event-time" v-if="timeDisplay">{{ timeDisplay }}</div>
       <div class="event-name">{{ event.event_name }}</div>
       <div v-if="event.location" class="event-location">{{ event.location }}</div>
-      <!-- Show snippet only for non-detail or if explicitly wanted -->
-      <div
-        v-if="descriptionSnippet && event.type !== 'detail'"
-        class="event-description"
-        v-html="descriptionSnippet"
-      />
-      <!-- Show full description for detail types if present -->
-      <div
-        v-if="event.type === 'detail' && event.event_description"
-        class="event-description"
-        v-html="event.event_description"
-      />
+      <div v-if="descriptionSnippet" class="event-description" v-html="descriptionSnippet" />
+      <div v-else-if="event.event_description" class="event-description" v-html="event.event_description" />
     </RouterLink>
   </li>
 </template>
