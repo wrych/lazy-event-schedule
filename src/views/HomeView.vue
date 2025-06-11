@@ -10,7 +10,7 @@ const upcomingLink = computed(() => preserveDebugQuery(route, { name: 'overview'
 </script>
 
 <template>
-  <UpcomingView />
+  <UpcomingView :count="3" />
   <div class="container">
 
     <RouterLink :to="upcomingLink" class="nav-button-link" aria-label="Program Overview Link"
