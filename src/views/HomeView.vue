@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RouterLink, RouterView, useRoute } from 'vue-router'
+import { RouterLink, useRoute } from 'vue-router'
 import { computed } from 'vue'
 import { preserveDebugQuery } from '@/utils/linkHelper' // Import helper
 import UpcomingView from '@/views/UpcomingView.vue'

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, watch } from 'vue'
+import { ref, watch } from 'vue'
 import { useTimeStore } from '@/stores/timeStore'
 
 const timeStore = useTimeStore()
@@ -42,21 +42,10 @@ function handleCheckboxChange(event: Event) {
 <template>
   <div class="debug-controls">
     <label for="debug-mode-toggle">Debug Time:</label>
-    <input
-      type="checkbox"
-      id="debug-mode-toggle"
-      :checked="timeStore.isDebugModeActive"
-      @change="handleCheckboxChange"
-      title="Enable manual time setting"
-    />
-    <input
-      type="datetime-local"
-      id="debug-time-input"
-      v-model="localDebugTimeString"
-      @input="handleTimeInputChange"
-      :disabled="!timeStore.isDebugModeActive"
-      title="Set the time used by the app"
-    />
+    <input type="checkbox" id="debug-mode-toggle" :checked="timeStore.isDebugModeActive" @change="handleCheckboxChange"
+      title="Enable manual time setting" />
+    <input type="datetime-local" id="debug-time-input" v-model="localDebugTimeString" @input="handleTimeInputChange"
+      :disabled="!timeStore.isDebugModeActive" title="Set the time used by the app" />
   </div>
 </template>
 

@@ -28,6 +28,7 @@ function formatDate(
           : new Date(dateStr + 'T00:00:00')
     return date.toLocaleDateString(navigator.language || 'en-US', options)
   } catch (e) {
+    console.error('Error formatting date:', e)
     return String(dateStr)
   }
 }
@@ -94,11 +95,8 @@ const getEventDetailLink = (eventId: string) =>
           <div class="day-date-header">{{ formatDate(dayKey) }}</div>
         </RouterLink>
         <ul class="overview-event-list">
-          <li
-            v-for="event in getSortedOverviewEventsForDay(dayKey)"
-            :key="event.id"
-            class="overview-event-item-wrapper"
-          >
+          <li v-for="event in getSortedOverviewEventsForDay(dayKey)" :key="event.id"
+            class="overview-event-item-wrapper">
             <RouterLink :to="getEventDetailLink(event.id)" class="overview-event-link">
               <span class="overview-event-time">
                 {{ formatTime(event.start) }} {{ event.end ? '- ' + formatTime(event.end) : '' }}
@@ -157,8 +155,7 @@ const getEventDetailLink = (eventId: string) =>
 
 .overview-event-list {
   list-style: none;
-  padding: calc(var(--spacing-unit) * 1) calc(var(--spacing-unit) * 2)
-    calc(var(--spacing-unit) * 1.5);
+  padding: calc(var(--spacing-unit) * 1) calc(var(--spacing-unit) * 2) calc(var(--spacing-unit) * 1.5);
   margin: 0;
 }
 

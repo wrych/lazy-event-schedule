@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, computed, watch } from 'vue'
-import type { Ref } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { useEventStore } from '@/stores/eventStore'
 import EventCard from '@/components/EventCard.vue' // Use the consistent card

@@ -1,15 +1,10 @@
-import { createRouter, createWebHistory, type RouteLocationNormalized } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import UpcomingView from '../views/UpcomingView.vue'
 import OverviewView from '../views/OverviewView.vue'
 import DayDetailView from '../views/DayDetailView.vue'
 import EventDetailView from '../views/EventDetailView.vue'
 import NotFoundView from '../views/NotFoundView.vue'
-
-// Helper to check if debug is active in the CURRENT route
-function isDebugActive(route: RouteLocationNormalized): boolean {
-  return route.query.debug === 'true'
-}
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

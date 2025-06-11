@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, computed, watch } from 'vue'
-import { useRoute, useRouter, RouterLink } from 'vue-router'
+import { useRoute, RouterLink } from 'vue-router'
 import { useEventStore } from '@/stores/eventStore'
 import type { EventData } from '@/types'
 import { preserveDebugQuery } from '@/utils/linkHelper'
@@ -11,7 +11,6 @@ const props = defineProps<{
 }>()
 
 const route = useRoute()
-const router = useRouter()
 const eventStore = useEventStore() // Defined here, should be available
 
 const event = ref<EventData | null>(null)
@@ -115,9 +114,6 @@ const timeDisplay = computed(() => {
   }
   return ''
 })
-const getChildEventLink = (childId: string) => {
-  return preserveDebugQuery(route, { name: 'event-detail', params: { id: childId } })
-}
 // --- End Formatters ---
 </script>
 
