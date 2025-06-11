@@ -407,7 +407,7 @@
     {
         "start_datetime": "2025-06-13T18:00",
         "end_datetime": "2025-06-13T19:00",
-        "location": "Pöstlihotel",
+        "location": "Courtyard, Hotel Schweizerhof",
         "event_name": "Apéro",
         "event_description": "",
         "type": "detail",
@@ -441,7 +441,7 @@
         "parent_event": ""
     },
     {
-        "start_datetime": "2025-06-14T10:00",
+        "start_datetime": "2025-06-14T09:15",
         "end_datetime": "2025-06-14T18:00",
         "location": "",
         "event_name": "DECTRIS X",
@@ -450,7 +450,7 @@
         "parent_event": ""
     },
     {
-        "start_datetime": "",
+        "start_datetime": "2025-06-14T09:15",
         "end_datetime": "",
         "location": "",
         "event_name": "Hiking",
@@ -486,7 +486,7 @@
         "parent_event": "DECTRIS X"
     },
     {
-        "start_datetime": "2025-06-14T18:00",
+        "start_datetime": "2025-06-14T19:00",
         "end_datetime": "2025-06-14T22:00",
         "location": "Steakhouse Ochsen",
         "event_name": "Dinner",
