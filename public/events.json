@@ -246,8 +246,8 @@
         "start_datetime": "2025-06-13T09:10",
         "end_datetime": "2025-06-13T09:40",
         "location": "Room III, Hotel Schweizerhof",
-        "event_name": "Subsidiary's Report 2025 | DECTRIS USA and Japan",
-        "event_description": "<p>Speakers: TakT, ZacB<br>Language: ENG</p><p>Update from DECTRIS USA and Japan on the current status of the subsidiaries, their challenges, and successes.</p>",
+        "event_name": "Interconnects",
+        "event_description": "<p>Speakers: AdrC<br>Language: ENG</p><p>A presentation on interconnect technology at DECTRIS</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -273,8 +273,8 @@
         "start_datetime": "2025-06-13T09:45",
         "end_datetime": "2025-06-13T10:05",
         "location": "Room III, Hotel Schweizerhof",
-        "event_name": "Interconnects",
-        "event_description": "<p>Speakers: AdrC<br>Language: ENG</p><p>A presentation on interconnect technology at DECTRIS</p>",
+        "event_name": "Subsidiary's Report 2025 | DECTRIS USA and Japan",
+        "event_description": "<p>Speakers: TakT, ZacB<br>Language: ENG</p><p>Update from DECTRIS USA and Japan on the current status of the subsidiaries, their challenges, and successes.</p>",
         "type": "detail",
         "parent_event": "Employee Presentations"
     },
@@ -429,7 +429,7 @@
         "event_name": "Karaoke Party",
         "event_description": "",
         "type": "detail",
-        "parent_event": ""
+        "parent_event": "Friday Evening Program"
     },
     {
         "start_datetime": "2025-06-14T07:30",
