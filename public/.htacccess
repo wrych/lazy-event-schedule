@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # If the requested path is a file, skip rewrite
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  # If the requested path is a directory, skip rewrite
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L] # No rewrite needed
+
+  # Otherwise, rewrite the path to index.html
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+<Files "events.json">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0" # Or a date in the past, but "0" is often simpler
+</Files>
